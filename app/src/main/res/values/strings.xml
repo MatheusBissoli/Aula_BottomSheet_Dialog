@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula 9</string>
+    <string name="open_bottom_sheet">Abrir bottom sheet</string>
+    <string name="fechar">Fechar</string>
+</resources>
